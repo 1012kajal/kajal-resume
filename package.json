@@ -1,0 +1,24 @@
+{
+  "name": "kajal-resume",
+  "version": "1.0.0",
+  "description": "React resume for Kajal Patil",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "homepage": "https://1012kajal.github.io/kajal-resume",
+  "keywords": [],
+  "author": "Kajal Patil",
+  "license": "ISC"
+}
